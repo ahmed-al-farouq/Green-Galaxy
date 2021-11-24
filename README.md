@@ -19,7 +19,7 @@
     - Bootstrap 4
 ### Setup
   * Open your command
-  * Type "git clonehttps://github.com/ahmed-al-farouq/Green-Galaxy.git"
+  * Type "git clone https://github.com/ahmed-al-farouq/Green-Galaxy.git"
 
 ### Run the app
   * Open index.html
