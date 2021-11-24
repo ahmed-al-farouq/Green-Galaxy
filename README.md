@@ -12,7 +12,7 @@
 - Bootstrap
 
 ## Live Demo
-[Live-demo](https://freeeze.pages.dev/)
+[Live-demo](https://green-galaxy.pages.dev/)
 ### Prerequisites
   - #### Knowledge of these technologies
     - JQuery
